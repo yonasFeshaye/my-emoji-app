@@ -1,5 +1,5 @@
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
-const myEmojis = ["👨‍💻", "⛷", "🍲"]
+const myEmojis2 = ["👨‍💻", "⛷", "🍲"]
 
 
 function renderEmojis() {
